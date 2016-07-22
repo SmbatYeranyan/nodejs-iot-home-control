@@ -1,0 +1,11 @@
+{
+    "name": "nodejs-iot-home-control",
+    "description": "",
+    "main": "nodejs-iot-home-control.js",
+    "scripts": {
+      "start": "node nodejs-iot-home-control.js"
+    },
+    "dependencies": {
+        "express": "^4.14.0"
+    }
+}
