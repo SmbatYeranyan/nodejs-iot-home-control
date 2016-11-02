@@ -7,9 +7,14 @@ Controlling sub GHz (433 MHz) electronic switches in the house with mobile &amp;
 
 **Other project parts**
 
-Android part of the project [**repo**](https://github.com/bernardpletikosa/android-iot-home-control)
-Hardware part coming soon
 
+Hardware part of the project [**repo**](https://github.com/SmbatYeranyan/hardware-iot-home-control)
+
+Android part of the project [**repo**](https://github.com/bernardpletikosa/android-iot-home-control)
+
+Server part of the project [**repo**](https://github.com/SmbatYeranyan/nodejs-iot-home-control)
+
+Firmware part of the project [**repo**](https://github.com/SmbatYeranyan/firmware-iot-home-control)
 
 **Showcase video**
 
